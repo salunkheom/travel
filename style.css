@@ -1,0 +1,229 @@
+
+
+.navbar{
+  padding-top:30px;
+ position:relative;
+ 
+ 
+ }
+ .navbar-toggler {
+   margin-left:200px;
+ }
+ 
+  .navbar-brand img{
+    border-radius: 400px;
+   margin-left:25px;
+   width:120px;
+ }
+
+
+.navbar-brand img:hover{
+ transform:rotatey(-150deg);
+ transition:0.8s ;
+}
+ .h1{
+   font-family:lucida hndwriting;
+   font-size:xxx-large;
+   font-weight:lighter;
+   text-shadow:white;
+   margin-top:5px;
+   margin-left: 213px;
+ 
+ }
+.h1:hover{
+   border-bottom:aliceblue solid 3px;
+ transition:0.3s;
+ transition-timing-function:linear
+ 
+}
+ .heading{
+   margin-top:100px;
+   width:100%;
+  text-align:center;
+  font-size:-webkit-xxx-large;
+  color:#f0ff00; 
+  
+ }
+ #mah{
+   font-family:lucida handwriting;
+  border:#b47a7a 3px solid;
+  border-radius:15px;
+  padding:15px;
+  background-color:#400000;
+  
+ }
+#mah:hover{
+ background-color:#002cf9;
+ 
+
+ transition:0.9s;
+ transition-timing-function:linear;
+ 
+}
+.mid{
+ display:flex;
+ /* justify-content: space-between; */
+ margin-top: 200px;
+ font-size:x-large;
+ padding:50px;
+ width: :fit-content;
+ width: 100%;
+}
+.text{
+ text-align: justify;width: 100%;
+     }
+.grid{
+   width: 100%;
+ display:flex;
+padding:10px 40px;
+}
+.grid img{
+ width:300px;
+ height:200px;
+ margin-bottom:25px;
+ border:#e9e015 solid 3px;
+ border-radius:10px;
+}
+.grid-1{
+ padding:0px 50px
+}
+li{
+ list-style:none;
+}
+.text h3{
+ text-align: -webkit-auto;
+}
+/* goa here */
+
+#goa{
+ position:absolute;
+ margin:70px  80px;
+ padding:5px 45px;
+padding-bottom:10px;
+ text-align:center;
+ color:#ffffff;
+}
+#goa:hover{
+ background-color:#e4c618;
+ border:2px aliceblue solid;
+ border-radius:5px;
+ 
+ color:#000000;
+ transition:0.2s;
+ transition-timing-function:linear;
+ }
+
+ /* pune here */
+ #pune{
+  position:absolute;
+  margin:70px  75px;
+  padding:5px 45px;
+ padding-bottom:10px;
+  text-align:center;
+  color:#f9f9fb;
+ }
+ #pune:hover{
+  background-color:#e0bf00;
+  border:2px aliceblue solid;
+  border-radius:5px;
+   color:#000000;
+ 
+  transition:0.2s;
+  transition-timing-function:linear;
+  }
+
+  /* mumbai here */
+  #mum{
+    position:absolute;
+    margin:70px  60px;
+    padding:5px 45px;
+   padding-bottom:10px;
+    text-align:center;
+    color:#ffffff;
+   }
+   #mum:hover{
+    background-color:#ffff00;
+    
+    border:2px white solid;
+    border-radius:5px;
+    color:#231b1b;
+   
+    transition:0.2s;
+    transition-timing-function:linear;
+    }
+    /* kolhapur here */
+    #kolhapur{
+      position:absolute;
+      margin:70px  55px;
+      padding:5px 45px;
+     padding-bottom:10px;
+      text-align:center;
+      color:#fdfdfd;
+     }
+     #kolhapur:hover{
+      background-color:#e0bf00;
+      border:2px aliceblue solid;
+      border-radius:5px;
+      color:#000000;     
+     
+      transition:0.2s;
+      transition-timing-function:linear;
+      }
+      /* mahables here */
+      #mahabaleshwar{
+        position:absolute;
+        margin:70px  53px;
+        padding:5px 10px;
+       padding-bottom:10px;
+        text-align:center;
+        color:#ffffff;
+       }
+       #mahabaleshwar:hover{
+        background-color:#e0bf00;
+        border:2px aliceblue solid;
+        border-radius:5px;
+        color:#000000;
+       
+        transition:0.2s;
+        transition-timing-function:linear;
+        }
+        /* satara here */
+#satara{
+  position:absolute;
+  margin:70px  75px;
+  padding:5px 45px;
+ padding-bottom:10px;
+  text-align:center;
+  color:#fefeff;
+ }
+ #satara:hover{
+  background-color:#e0bf00;
+  border:2px aliceblue solid;
+  border-radius:5px;
+  color:#000000;
+ 
+  transition:0.2s;
+  transition-timing-function:linear;
+  }
+ /* media quere here */
+
+
+ @media screen and (max-width: 480px) {
+    .heading{
+       margin-top:350px;
+   width:100%;
+  font-size:x-large;
+  color:#f1ff0b; 
+    }
+ .h1{
+   font-family:lucida hndwriting;
+   font-size:35px;
+  font-weight:lighter;
+ 
+  margin-top:40px;
+  margin-left:20px;
+ 
+ }
+  
+  }
+ 
