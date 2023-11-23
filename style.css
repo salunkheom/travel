@@ -7,7 +7,7 @@
  
  }
  .navbar-toggler {
-   margin-left: 146px;
+   margin-left: 47px;
  }
  
   .navbar-brand img{
@@ -27,7 +27,7 @@
    font-weight: bolder;
    text-shadow:white;
    margin-top:5px;
-   margin-left: 87px;
+   margin-left: 63px;
  }
 .h1:hover{
    border-bottom:aliceblue solid 3px;
@@ -228,6 +228,5 @@ li{
   @media screen and (min-width: 1440px){
    .h1{
     font-size: xxx-large;
-    margin-left: 170px;
    }
   }
